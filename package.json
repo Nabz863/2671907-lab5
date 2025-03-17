@@ -1,0 +1,22 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "SD Lab 5 RESTful API for managing books.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nabz863/2671907-lab5.git"
+  },
+  "author": "2671907",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nabz863/2671907-lab5/issues"
+  },
+  "homepage": "https://github.com/Nabz863/2671907-lab5#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
